@@ -1,7 +1,8 @@
 
 package Patient;
 
-
+//@author Amrutha SIngh
+// adding a comment
 class Patient {
     private String pname, phealthissue,pgender,pphno;
         private int page;
@@ -26,7 +27,7 @@ class Patient {
 }
 
 
-
+// adding a comment
 public class Patientsub{
   public static void main(String args[])
     {
